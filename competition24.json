@@ -1,0 +1,156 @@
+{
+  "2024q-for-i_like_it_raw": {
+    "year": "2024",
+    "event": "CSAW-Quals",
+    "category": "forensics",
+    "challenge": "I like it RAW",
+    "path": "competition/2024/CSAW-Quals/forensics/i_like_my_camera_RAW"
+  },
+  "2024q-for-zipzipzipzi........": {
+    "year": "2024",
+    "event": "CSAW-Quals",
+    "category": "forensics",
+    "challenge": "ZipZipZipZi........",
+    "path": "competition/2024/CSAW-Quals/forensics/ZipZipZip"
+  },
+  "2024q-for-covert": {
+    "year": "2024",
+    "event": "CSAW-Quals",
+    "category": "forensics",
+    "challenge": "covert",
+    "path": "competition/2024/CSAW-Quals/forensics/covert"
+  },
+  "2024q-for-is_there_an_echo_in_here?": {
+    "year": "2024",
+    "event": "CSAW-Quals",
+    "category": "forensics",
+    "challenge": "Is there an echo in here?",
+    "path": "competition/2024/CSAW-Quals/forensics/is_there_an_echo"
+  },
+  "2024q-for-the_triple_illusion": {
+    "year": "2024",
+    "event": "CSAW-Quals",
+    "category": "forensics",
+    "challenge": "The Triple Illusion",
+    "path": "competition/2024/CSAW-Quals/forensics/the_triple_illusion"
+  },
+  "2024q-cry-diffusion_pop_quiz": {
+    "year": "2024",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "Diffusion Pop Quiz",
+    "path": "competition/2024/CSAW-Quals/crypto/Diffusion-Pop-Quiz"
+  },
+  "2024q-cry-trapdoor": {
+    "year": "2024",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "Trapdoor",
+    "path": "competition/2024/CSAW-Quals/crypto/trapdoor"
+  },
+  "2024q-cry-aes_diffusion_pop_quiz": {
+    "year": "2024",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "AES Diffusion Pop Quiz",
+    "path": "competition/2024/CSAW-Quals/crypto/AES-Diffusion"
+  },
+  "2024q-cry-cbc": {
+    "year": "2024",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "cbc",
+    "path": "competition/2024/CSAW-Quals/crypto/cbc"
+  },
+  "2024q-cry-hexhex": {
+    "year": "2024",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "HexHex",
+    "path": "competition/2024/CSAW-Quals/crypto/HexHex"
+  },
+  "2024q-pwn-diving_into_null": {
+    "year": "2024",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "Diving into Null",
+    "path": "competition/2024/CSAW-Quals/pwn/diving-into-null"
+  },
+  "2024q-pwn-*nix_philosophies": {
+    "year": "2024",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "*nix philosophies",
+    "path": "competition/2024/CSAW-Quals/pwn/nix-philosophies"
+  },
+  "2024q-pwn-mini-golfing": {
+    "year": "2024",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "mini-golfing",
+    "path": "competition/2024/CSAW-Quals/pwn/mini-golfing"
+  },
+  "2024q-pwn-vip_blacklist": {
+    "year": "2024",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "vip blacklist",
+    "path": "competition/2024/CSAW-Quals/pwn/vip_blacklist"
+  },
+  "2024q-web-charlie's_angels": {
+    "year": "2024",
+    "event": "CSAW-Quals",
+    "category": "web",
+    "challenge": "Charlie's Angels",
+    "path": "competition/2024/CSAW-Quals/web/charlies-angels"
+  },
+  "2024q-web-playing_on_the_backcourt": {
+    "year": "2024",
+    "event": "CSAW-Quals",
+    "category": "web",
+    "challenge": "playing on the backcourt",
+    "path": "competition/2024/CSAW-Quals/web/playing-on-the-backcourt"
+  },
+  "2024q-web-lost_pyramid": {
+    "year": "2024",
+    "event": "CSAW-Quals",
+    "category": "web",
+    "challenge": "Lost Pyramid",
+    "path": "competition/2024/CSAW-Quals/web/Lost Pyramid"
+  },
+  "2024q-web-logmein1": {
+    "year": "2024",
+    "event": "CSAW-Quals",
+    "category": "web",
+    "challenge": "LogMeIn1",
+    "path": "competition/2024/CSAW-Quals/web/LogMeIn1"
+  },
+  "2024q-rev-archaeology": {
+    "year": "2024",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "archaeology",
+    "path": "competition/2024/CSAW-Quals/rev/archaeology"
+  },
+  "2024q-rev-baby_rev": {
+    "year": "2024",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "Baby Rev",
+    "path": "competition/2024/CSAW-Quals/rev/baby_rev"
+  },
+  "2024q-rev-magic_tricks": {
+    "year": "2024",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "magic tricks",
+    "path": "competition/2024/CSAW-Quals/rev/magic-tricks"
+  },
+  "2024q-rev-obfuscated_to_heck": {
+    "year": "2024",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "Obfuscated to Heck",
+    "path": "competition/2024/CSAW-Quals/rev/Obfuscation"
+  }
+}
