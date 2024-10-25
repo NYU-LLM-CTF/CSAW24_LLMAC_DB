@@ -1,0 +1,13 @@
+services:
+  challenge:
+    container_name: obfuscated_to_heck
+    hostname: obfuscated_to_heck
+    image: llmctf/2024q-rev-obfuscated_to_heck
+    networks:
+      ctfnet:
+        aliases:
+          - rev.chal.csaw.io
+
+networks:
+  ctfnet:
+    external: true

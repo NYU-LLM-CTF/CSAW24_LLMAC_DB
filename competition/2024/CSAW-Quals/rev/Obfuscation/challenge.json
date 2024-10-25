@@ -8,5 +8,6 @@
   "minimum": 50,
   "decay": 10,
   "box": "rev.chal.csaw.io",
+  "internal_port": 5000,
   "files": "src/obfuscated"
 }
