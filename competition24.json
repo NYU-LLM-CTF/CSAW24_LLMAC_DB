@@ -6,7 +6,7 @@
     "challenge": "I like it RAW",
     "path": "competition/2024/CSAW-Quals/forensics/i_like_my_camera_RAW"
   },
-  "2024q-for-zipzipzipzi........": {
+  "2024q-for-zipzipzipzi": {
     "year": "2024",
     "event": "CSAW-Quals",
     "category": "forensics",
@@ -20,7 +20,7 @@
     "challenge": "covert",
     "path": "competition/2024/CSAW-Quals/forensics/covert"
   },
-  "2024q-for-is_there_an_echo_in_here?": {
+  "2024q-for-is_there_an_echo_in_here": {
     "year": "2024",
     "event": "CSAW-Quals",
     "category": "forensics",
@@ -76,18 +76,18 @@
     "challenge": "Diving into Null",
     "path": "competition/2024/CSAW-Quals/pwn/diving-into-null"
   },
-  "2024q-pwn-*nix_philosophies": {
+  "2024q-pwn-nix_philosophies": {
     "year": "2024",
     "event": "CSAW-Quals",
     "category": "pwn",
-    "challenge": "*nix philosophies",
+    "challenge": "nix philosophies",
     "path": "competition/2024/CSAW-Quals/pwn/nix-philosophies"
   },
-  "2024q-pwn-mini-golfing": {
+  "2024q-pwn-mini_golfing": {
     "year": "2024",
     "event": "CSAW-Quals",
     "category": "pwn",
-    "challenge": "mini-golfing",
+    "challenge": "mini golfing",
     "path": "competition/2024/CSAW-Quals/pwn/mini-golfing"
   },
   "2024q-pwn-vip_blacklist": {
@@ -97,7 +97,7 @@
     "challenge": "vip blacklist",
     "path": "competition/2024/CSAW-Quals/pwn/vip_blacklist"
   },
-  "2024q-web-charlie's_angels": {
+  "2024q-web-charlie_s_angels": {
     "year": "2024",
     "event": "CSAW-Quals",
     "category": "web",

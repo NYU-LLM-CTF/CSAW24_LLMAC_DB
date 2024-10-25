@@ -5,6 +5,7 @@
   "category": "pwn",
   "box": "pwn.chal.csaw.io",
   "internal_port": 9191,
+  "compose": true,
   "flag": "csawctf{penguins_are_just_birds_with_tuxedos}",
   "files": []
 }

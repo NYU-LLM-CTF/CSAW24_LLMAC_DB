@@ -5,6 +5,7 @@
   "category": "pwn",
   "box": "pwn.chal.csaw.io",
   "internal_port": 1000,
+  "compose": true,
   "flag": "csawctf{-3v3ry7h1ng_15_4_f1l3}",
   "files": [
     "./chal"
