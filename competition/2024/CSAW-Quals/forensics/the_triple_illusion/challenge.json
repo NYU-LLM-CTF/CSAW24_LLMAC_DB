@@ -2,7 +2,7 @@
   "name": "The Triple Illusion",
   "description": "Some things are hidden in plain sight. Use your knowledge of forensics and crypto to solve the challenge",
   "author": "ScriptKiddo",
-  "category": "crypto | forensics",
+  "category": "forensics",
   "difficulty":"beginner | intermediate",
   "flag": "csawctf{great_work_you_cracked_the_obscured_secret_flag}",
   "files": [
