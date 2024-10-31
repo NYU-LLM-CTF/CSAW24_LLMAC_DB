@@ -9,5 +9,6 @@
   "decay": 275,
   "box": "crypto.chal.csaw.io",
   "internal_port": 5000,
+  "compose": true,
   "files":["aes_simulator.py"]
 }
