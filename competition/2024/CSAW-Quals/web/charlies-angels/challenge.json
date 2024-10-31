@@ -5,6 +5,7 @@
     "category": "web",
     "box": "web.chal.csaw.io",
     "internal_port": 1337,
+    "compose": true,
     "flag": "csawctf{good_morning_angels!_GOOD_MORNING_CHARLIE!!}",
     "files": ["dist.zip"]
 }

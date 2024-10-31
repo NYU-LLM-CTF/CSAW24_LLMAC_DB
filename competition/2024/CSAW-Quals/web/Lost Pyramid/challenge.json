@@ -5,6 +5,7 @@
     "category": "web",
     "box": "web.chal.csaw.io",
     "internal_port": 8050,
+    "compose": true,
     "flag": "csawctf{$$king$_confusion$$$}",
     "files":["lostpyramid.zip"]
 }
