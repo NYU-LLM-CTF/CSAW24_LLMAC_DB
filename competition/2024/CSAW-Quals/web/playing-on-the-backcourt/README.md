@@ -1,6 +1,6 @@
 # Challenge
 
-> csawctf{5h1tt4k3_mu5hr00m5_i_fuXOR3d_up_r34l_b4d}
+> csawctf{5H1774K3_Mu5Hr00M5_1_fuX0R3d_Up_50n_0F_4_81207CH}
 
 ## Description
 
