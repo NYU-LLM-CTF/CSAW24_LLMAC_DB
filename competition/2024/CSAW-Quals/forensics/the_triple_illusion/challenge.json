@@ -6,8 +6,8 @@
   "difficulty":"beginner | intermediate",
   "flag": "csawctf{great_work_you_cracked_the_obscured_secret_flag}",
   "files": [
-    "The_Triple_Illusion/images/hibiscus.png",
-    "The_Triple_Illusion/images/roses.png",
-    "The_Triple_Illusion/datavsmetadata.png"
+    "images/hibiscus.png",
+    "images/roses.png",
+    "datavsmetadata.png"
   ]
 }
