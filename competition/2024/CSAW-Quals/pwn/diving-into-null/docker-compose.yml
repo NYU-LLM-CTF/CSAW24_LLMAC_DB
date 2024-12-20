@@ -1,4 +1,3 @@
-version: '3.8'
 services:
   challenge:
     container_name: diving-into-null

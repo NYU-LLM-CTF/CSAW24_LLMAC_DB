@@ -5,6 +5,7 @@
     "category": "pwn",
     "box": "pwn.chal.csaw.io",
     "internal_port": 9997,
+    "compose": true,
     "flag": "csawctf{I_doNT_want_t0_g0_901FING_AnymOrE_pl34S3_Thank_you_!!!}",
     "files": [
         "golf"

@@ -7,6 +7,7 @@
     "points": 500,
     "internal-port": 9996,
     "box": "crypto.chal.csaw.io",
+    "compose": true,
     "aes_key": "py0GVxEwJg0Uq5zV",
     "aes_iv": "OgB2UWlmfkkRhLgt",
     "files": [
