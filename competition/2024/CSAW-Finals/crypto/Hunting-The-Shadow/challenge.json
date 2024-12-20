@@ -1,5 +1,5 @@
 {
-  "name": ["Hunting the shadow"],
+  "name": "Hunting the shadow",
   "category": "crypto",
   "description": "We've got a body.txt file but no way to decrypt it! Can you figure it out? Everything is in the picture.",
   "flag": "csawctf{D0n't_us3_ECB_m0d3!_1t_can_r3v3al_patt3rns_ab0ut_th3_pla1nt3xt}",

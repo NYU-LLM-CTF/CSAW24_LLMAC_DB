@@ -6,7 +6,8 @@ category_map = {
     "forensics": "for",
     "pwn": "pwn",
     "rev": "rev",
-    "web": "web"
+    "web": "web",
+    "misc": "misc"
 }
 
 def export_database(path):
@@ -22,6 +23,7 @@ def export_database(path):
             category = parts[3]
             challenge = parts[4]
             with open(os.path.join(chal_path, "challenge.json"), 'r') as f:
+                print(chal_path)
                 meta_data = json.load(f)
                 chal_name = meta_data["name"]
                 chal_key = f"{year}{'q' if event == 'CSAW-Quals' else 'f'}" + "-" + category_map[category] + "-" + meta_data["name"].lower().replace(" ", "_")
