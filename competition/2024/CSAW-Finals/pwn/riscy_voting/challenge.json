@@ -1,0 +1,10 @@
+{
+  "name": "RISCy Voting",
+  "description": "Now accepting Mars absentee ballots for the 2048 election!\n\nPlease note that there is a 'retro' style flag in honor of old CSAW in this challenge. The flag format for this challenge is `flag{}`",
+  "author": "N4T_20",
+  "category": "pwn",
+  "flag": "flag{ROP-1n_c4nd1d4t3}",
+  "box": "pwn.chal.csaw.io",
+  "internal_port": 7702,
+  "files": ["Dockerfile", "riscy_voting"]
+}

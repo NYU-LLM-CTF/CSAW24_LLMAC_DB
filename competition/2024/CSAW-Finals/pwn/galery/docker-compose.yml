@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  game-server:
+    image: llmctf/2024f-pwn-galery
+    networks:
+      ctfnet:
+        aliases:
+          - pwn.chal.csaw.io
+    ports:
+      - 9991:9991
+
+networks:
+  ctfnet:
+    external: true

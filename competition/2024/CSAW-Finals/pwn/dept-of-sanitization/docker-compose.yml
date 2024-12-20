@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  game-server:
+    image: llmctf/2024f-pwn-dept_of_sanitization
+    networks:
+      ctfnet:
+        aliases:
+          - pwn.chal.csaw.io
+    ports:
+      - 5454:5454
+
+networks:
+  ctfnet:
+    external: true

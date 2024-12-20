@@ -1,0 +1,23 @@
+version: '3'
+
+services:
+  admin:
+    image: llmctf/2024f-web-webpolyglot_admin
+    networks:
+      ctfnet:
+        aliases:
+          - web.chal.csaw.io
+    ports:
+      - 4444:4444
+  web:
+    image: llmctf/2024f-web-webpolyglot
+    networks:
+      ctfnet:
+        aliases:
+          - web.chal.csaw.io
+    ports:
+      - 4747:4747
+
+networks:
+  ctfnet:
+    external: true

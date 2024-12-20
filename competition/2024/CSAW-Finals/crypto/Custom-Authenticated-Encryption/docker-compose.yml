@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  game-server:
+    image: llmctf/2024f-cry-custom_authenticated_encryption
+    networks:
+      ctfnet:
+        aliases:
+          - crypto.chal.csaw.io
+    ports:
+      - 80:80
+
+networks:
+  ctfnet:
+    external: true

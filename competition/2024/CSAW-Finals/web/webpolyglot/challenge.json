@@ -1,0 +1,10 @@
+{
+    "name": "webp.olyglot",
+    "category": "web",
+    "description": "new and improved travel blog!",
+    "flag": "csawctf{p0lyGl0t_G0d_FTW_777}",
+    "author": "cpan57",
+    "files":["dist.zip"],
+    "box": "web.chal.csaw.io",
+    "internal_port": [4444, 4747]
+  }
