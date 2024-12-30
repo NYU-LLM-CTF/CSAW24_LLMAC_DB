@@ -8,6 +8,7 @@
   "initial": null,
   "minimum": null,
   "decay": null,
+  "compose": true,
   "box": "crypto.chal.csaw.io",
   "files":["query.py"]
 }

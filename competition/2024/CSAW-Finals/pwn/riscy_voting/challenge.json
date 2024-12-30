@@ -6,5 +6,6 @@
   "flag": "flag{ROP-1n_c4nd1d4t3}",
   "box": "pwn.chal.csaw.io",
   "internal_port": 7702,
+  "compose": true,
   "files": ["Dockerfile", "riscy_voting"]
 }

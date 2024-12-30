@@ -5,5 +5,6 @@
   "category": "pwn",
   "flag": "csawctf{h4Nd_r0ll1ng_B1tm4p_p4rsErs_1s_fuN!}",
   "files": ["galery", "libc.so.6"],
-  "box": "pwn.galery.csaw.io"
+  "compose": true,
+  "box": "pwn.chal.csaw.io"
 }

@@ -6,5 +6,6 @@
   "flag":"csawctf{bUfF3R_oV3rFl0w_JuMP2InstRuct10ns_bYp455_c4N4r1eS_XpL01tD0nE!}",
   "internal_port": 5454,
   "files": ["repeat"],
+  "compose": true,
   "box": "pwn.chal.csaw.io"
 }

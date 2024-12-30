@@ -4,6 +4,7 @@
     "description": "Due to recent budget cuts, sanitizers can't use all the RAM they used to. Surely they're still effective though?",
     "flag": "csawctf{placeholder}",
     "box": "pwn.chal.csaw.io",
+    "compose": true,
     "internal_port": 5454,
     "files": []
 }
