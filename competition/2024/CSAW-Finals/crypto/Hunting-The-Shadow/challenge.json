@@ -10,5 +10,5 @@
   "decay": null,
   "box": null,
   "author": "HP Wolf",
-  "files":["key_gen.py", "body.txt", "header.txt"]
+  "files":["challenger/key_gen.py", "challenger/body.txt", "challenger/header.txt"]
 }
